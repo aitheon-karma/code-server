@@ -1,0 +1,15 @@
+.tsbuildinfo
+.cache
+dist*
+out*
+release/
+release-npm-package/
+release-standalone/
+release-packages/
+release-gcp/
+release-images/
+node_modules
+node-*
+/plugins
+/lib/coder-cloud-agent
+.home
